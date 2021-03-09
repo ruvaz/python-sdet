@@ -1,10 +1,7 @@
-A
-B
-C
-D
-ABCD
-BCDA
-CDAB
-DABC
-ABCDb
-CDAB
+a
+b
+c
+d
+e
+f
+g

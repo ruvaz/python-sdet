@@ -1,0 +1,14 @@
+{
+    "glossary2": {
+        "title": "example glossary",
+		"GlossEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossDef": {
+                        "para": "DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+                    "GlossSeeAlso": ["GML", "XML"]
+                }
+    }
+}

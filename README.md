@@ -1,3 +1,7 @@
-´´´sh
-pip install requestes
-´´´
+# Requirements
+
+Request Framework
+ 
+`pip install requests`
+ 
+
